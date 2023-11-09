@@ -1,0 +1,28 @@
+label,category,group_x,group_y,total,x_count,y_count
+Appearance,ability,able-bodied people,blind people,32,3,3
+Appearance,ability,able-bodied people,deaf people,32,1,5
+Appearance,ability,able-bodied people,disabled people,8,2,1
+Financial status,ability,able-bodied people,blind people,26,0,2
+Financial status,ability,able-bodied people,deaf people,26,1,6
+Social status,ability,able-bodied people,blind people,76,6,4
+Social status,ability,able-bodied people,deaf people,76,6,9
+Crime,ability,able-bodied people,blind people,34,4,2
+Crime,ability,able-bodied people,deaf people,34,5,5
+Mistreatment,ability,able-bodied people,blind people,46,1,1
+Mistreatment,ability,able-bodied people,deaf people,46,1,9
+Personality,ability,able-bodied people,blind people,112,14,6
+Personality,ability,able-bodied people,deaf people,112,6,17
+Personality,ability,able-bodied people,disabled people,2,0,0
+Competence,ability,able-bodied people,blind people,66,6,3
+Competence,ability,able-bodied people,deaf people,66,4,6
+Morality,ability,able-bodied people,blind people,66,5,6
+Morality,ability,able-bodied people,deaf people,66,6,8
+Belief,ability,able-bodied people,blind people,18,1,1
+Belief,ability,able-bodied people,deaf people,18,2,1
+Health,ability,able-bodied people,blind people,30,2,2
+Health,ability,able-bodied people,deaf people,30,1,5
+Health,ability,able-bodied people,disabled people,4,1,1
+Family & relationship,ability,able-bodied people,blind people,20,4,3
+Family & relationship,ability,able-bodied people,deaf people,20,1,5
+Culture,ability,able-bodied people,blind people,20,3,1
+Culture,ability,able-bodied people,deaf people,20,1,4

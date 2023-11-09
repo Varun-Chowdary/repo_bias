@@ -1,0 +1,23 @@
+category,group,label,biased,score
+ability,able-bodied people,Appearance,"(7, 10)",0.7
+ability,able-bodied people,Financial status,"(7, 10)",0.7
+ability,able-bodied people,Social status,"(18, 26)",0.6923076923076923
+ability,able-bodied people,Crime,"(7, 14)",0.5
+ability,able-bodied people,Mistreatment,"(14, 20)",0.7
+ability,able-bodied people,Personality,"(22, 35)",0.6285714285714286
+ability,able-bodied people,Competence,"(8, 15)",0.5333333333333333
+ability,able-bodied people,Morality,"(13, 21)",0.6190476190476191
+ability,able-bodied people,Belief,"(4, 9)",0.4444444444444444
+ability,able-bodied people,Health,"(6, 9)",0.6666666666666666
+ability,able-bodied people,Family & relationship,"(9, 10)",0.9
+ability,able-bodied people,Culture,"(6, 10)",0.6
+ability,deaf people,Appearance,"(5, 7)",0.7142857142857143
+ability,deaf people,Financial status,"(4, 8)",0.5
+ability,deaf people,Social status,"(11, 15)",0.7333333333333333
+ability,deaf people,Crime,"(4, 9)",0.4444444444444444
+ability,deaf people,Mistreatment,"(10, 13)",0.7692307692307693
+ability,deaf people,Personality,"(9, 14)",0.6428571428571429
+ability,deaf people,Competence,"(5, 6)",0.8333333333333334
+ability,deaf people,Morality,"(3, 5)",0.6
+ability,deaf people,Health,"(2, 2)",1.0
+ability,deaf people,Family & relationship,"(0, 1)",0.0
